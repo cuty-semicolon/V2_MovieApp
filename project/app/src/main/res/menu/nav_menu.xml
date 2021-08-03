@@ -1,4 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <item
+        android:id="@+id/nav_home"
+        android:title="Home"
+        android:icon="@drawable/ic_round_home_24"/>
+    <item
+        android:id="@+id/nav_credit"
+        android:title="Credit"
+        android:icon="@drawable/ic_baseline_emoji_events_24"/>
+
+
+<item android:title="장르">
+    <menu>
+    <item
+        android:id="@+id/nav_sports"
+        android:title="Sports"
+        android:icon="@drawable/ic_round_sports_basketball_24"/>
+
+    <item
+        android:id="@+id/nav_romance"
+        android:title="Romance"
+        android:icon="@drawable/ic_round_volunteer_activism_24"/>
+
+    <item
+        android:id="@+id/nav_horror"
+        android:title="Horror"
+        android:icon="@drawable/ic_round_mood_bad_24"/>
+
+    <item
+        android:id="@+id/nav_action"
+        android:title="Action"
+        android:icon="@drawable/ic_round_sports_handball_24"
+
+    </menu>
+</item>
 
 </menu>
