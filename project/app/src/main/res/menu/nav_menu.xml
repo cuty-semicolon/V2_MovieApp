@@ -3,6 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:showIn="navigation_view">
 
+    <group android:checkableBehavior="single">
+
     <item
         android:id="@+id/nav_home"
         android:title="Home"
@@ -11,10 +13,12 @@
         android:id="@+id/nav_credit"
         android:title="Credit"
         android:icon="@drawable/ic_baseline_emoji_events_24"/>
-
+    </group>
 
 <item android:title="장르">
     <menu>
+
+        <group>
     <item
         android:id="@+id/nav_sports"
         android:title="Sports"
@@ -34,7 +38,7 @@
         android:id="@+id/nav_action"
         android:title="Action"
         android:icon="@drawable/ic_round_sports_handball_24"/>
-
+        </group>
     </menu>
 </item>
 
