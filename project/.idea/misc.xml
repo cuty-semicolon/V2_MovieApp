@@ -13,9 +13,12 @@
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/ic_round_home_24.xml" value="0.265625" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/ic_round_mood_bad_24.xml" value="0.265625" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/ic_round_person_24.xml" value="0.265625" />
+        <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/ic_round_smart_display_24.xml" value="0.265625" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/ic_round_sports_basketball_24.xml" value="0.265625" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/ic_round_sports_handball_24.xml" value="0.265625" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/ic_round_volunteer_activism_24.xml" value="0.265625" />
+        <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/splash.xml" value="0.265625" />
+        <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/drawable/splash_image.xml" value="0.265625" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/layout/activity_main.xml" value="0.2" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/layout/fragment_action.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/layout/fragment_credit.xml" value="0.24947916666666667" />
@@ -24,6 +27,7 @@
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/layout/fragment_romance.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/layout/fragment_sports.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/layout/nav_header.xml" value="0.22780797101449277" />
+        <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/layout/splash.xml" value="0.24947916666666667" />
         <entry key="..\:/Users/user/Desktop/dd/V2_MovieApp/project/app/src/main/res/menu/nav_menu.xml" value="0.4" />
       </map>
     </option>

@@ -8,7 +8,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
+        android:layout_gravity="center|top"
         android:textSize="50dp"
-        android:text="credit" />
+        android:text="🏆개발자🏆"
+        android:textStyle="bold"/>
 </FrameLayout>
