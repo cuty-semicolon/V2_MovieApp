@@ -14,10 +14,28 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent">
 
+
+
     <FrameLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:id="@+id/frameLayout" />
+        android:id="@+id/frameLayout" >
+
+
+        <ImageView
+            android:layout_width="75dp"
+            android:layout_height="57dp"
+            android:layout_gravity="bottom|center"
+            android:src="@drawable/logo" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="환영합니다 왼쪽을 열어 시작하세요!"
+            android:textSize="24dp"
+            android:layout_gravity="center"
+            android:textStyle="bold"/>
+    </FrameLayout>
 
 
 

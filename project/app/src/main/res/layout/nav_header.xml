@@ -11,7 +11,7 @@
     <de.hdodenhof.circleimageview.CircleImageView
         android:layout_width="60dp"
         android:layout_height="60dp"
-        android:src="@drawable/ic_round_person_24"/>
+        android:src="@drawable/logo"/>
 
     <TextView
         android:layout_width="match_parent"
@@ -19,7 +19,7 @@
         android:id="@+id/username"
         android:paddingTop="0dp"
         android:textSize="20dp"
-        android:text="User"
+        android:text="너의 띵화는?"
         android:textColor="@color/black"
         android:textStyle="bold"/>
 
@@ -27,7 +27,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textSize="16dp"
-        android:text="당신은 최고의 보물!"/>
+        android:text="영화정보들을 확인하고 노세요!"/>
 
     <View
         android:layout_width="match_parent"
