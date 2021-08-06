@@ -34,6 +34,7 @@ class MainActivity : AppCompatActivity() {
 
                 R.id.nav_home -> replaceFragment(HomeFragment(),it.title.toString())
                 R.id.nav_credit -> replaceFragment(CreditFragment(),it.title.toString())
+                R.id.nav_profile -> replaceFragment(profileFragment(),it.title.toString())
                 R.id.nav_sports -> replaceFragment(SportsFragment(),it.title.toString())
                 R.id.nav_romance -> replaceFragment(RomanceFragment(),it.title.toString())
                 R.id.nav_horror -> replaceFragment(HorrorFragment(),it.title.toString())

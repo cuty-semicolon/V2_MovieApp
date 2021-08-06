@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "49904519817",
+    "project_id": "what-s-your-favorite-movie",
+    "storage_bucket": "what-s-your-favorite-movie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:49904519817:android:2a896b6a87ce8a615b5458",
+        "android_client_info": {
+          "package_name": "com.example.project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "49904519817-p7d1lnbo0qsgo4s0mm99sv2e195nl9u6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.project",
+            "certificate_hash": "f9eae77923711517c0919ffac557a54d54b4d570"
+          }
+        },
+        {
+          "client_id": "49904519817-b4951u1m99tj3o7m0l264ctfqi7h2as7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwxAfyRtKUuO3-uZjQZz0njgv5bgDmen4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "49904519817-b4951u1m99tj3o7m0l264ctfqi7h2as7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
