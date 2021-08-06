@@ -2,4 +2,5 @@
     <string name="app_name">project</string>
     <string name="open">Open</string>
     <string name="close">Close</string>
+    <string name="no_account">계정이 없으신가요? <b>회원가입</b></string>
 </resources>
